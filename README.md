@@ -14,6 +14,7 @@ If not, head over to [NodeJS.org](https://nodejs.org/en/download/) and get you s
 1. Clone this repo.
 2. `cd` into the given day's directory.
 3. Run the command `npm install` or for you impatient folks, `npm i`(they are the same command).
+4. To ensure things are working as expected run the command  `npm run test`, this command runs our test suite.
 
 #### A note about the syntax.
 We will be using [ES2015](http://www.ecma-international.org/ecma-262/6.0/) wherever possible, this is the latest and greatest JS, this ain't your momma's Javascript. In fact, most modern browsers (i.e. Google Chrome, Firefox) have already adopted many of the features we will be using. We will enable some more cutting edge syntax thanks to [BabelJS](https://babeljs.io/).
